@@ -1,7 +1,7 @@
 # Release Notes - ReportaP'
 
 ## Prototipo de arquitectura - ReportaP'
-
+ 
 Entrega correspondiente al Hito 1 / Sprint 0.
 
 ## Objetivo del release
