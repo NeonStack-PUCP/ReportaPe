@@ -1,4 +1,4 @@
-# VecinoActivo
+# ReportaP'
 
 Plataforma cívica que transforma denuncias y propuestas ciudadanas en evidencia estructurada usando datos reales del Estado peruano. El ciudadano reporta un problema con foto y ubicación; la app cruza automáticamente con INFOBRAS, MEF, OEFA y GeoPerú, genera un expediente formal listo para presentar, y lo publica en un mapa donde los vecinos pueden unirse y escalar la denuncia colectivamente.
 
