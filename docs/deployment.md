@@ -4,7 +4,7 @@
 
 TODO: Explicar dónde se desplegaría el frontend, backend, base de datos y servicios de IA.
 
-## Diagrama de despliegue
+## Diagrama de despliegue 
 
 ```mermaid
 flowchart TD

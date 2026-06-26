@@ -5,7 +5,7 @@
 | Herramienta / Modelo | Uso dentro del proyecto |
 |---|---|
 | ChatGPT | TODO |
-| GitHub Copilot | TODO |
+| GitHub Copilot | TODO | 
 | Claude / Gemini / otro | TODO |
 
 ## Prompts relevantes

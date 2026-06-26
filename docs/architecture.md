@@ -4,7 +4,7 @@
 
 TODO: Explicar brevemente la arquitectura propuesta para el proyecto.
 
-## Diagrama de arquitectura
+## Diagrama de arquitectura  
 
 ```mermaid
 flowchart TD

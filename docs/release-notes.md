@@ -8,7 +8,7 @@ Entrega correspondiente al Hito 1 / Sprint 0.
 
 - README inicial del proyecto.
 - Documentación de arquitectura.
-- Diagrama de módulos principales.
+- Diagrama de módulos principales. 
 - Modelo de datos inicial.
 - Diagrama de despliegue propuesto.
 - Registro de herramientas de IA utilizadas.

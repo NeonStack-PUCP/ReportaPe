@@ -8,7 +8,7 @@
 | Backend / API | TODO | TODO |
 | Base de datos | TODO | TODO |
 | Servicio de IA | TODO | TODO |
-| APIs externas | TODO | TODO |
+| APIs externas | TODO | TODO | 
 
 ## Flujo principal del sistema
 

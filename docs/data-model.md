@@ -11,7 +11,7 @@
 ## Diagrama entidad-relación inicial
 
 ```mermaid
-erDiagram
+erDiagram 
     USUARIO {
         string id
         string nombre
